@@ -7,7 +7,7 @@ public class Resumes
 
     public void Display()
     {
-        Console.WriteLine($"Name: {_name}");
+        Console.WriteLine($"Name: {string.Join(",", _name)} ");
         Console.WriteLine("Jobs: ");
 
         foreach (Job job in _jobs)

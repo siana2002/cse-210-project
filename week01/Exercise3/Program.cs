@@ -8,6 +8,7 @@ class Program
 
         Random randomGenerator = new Random();
         int magicNumber = randomGenerator.Next(0, 101);
+        Console.WriteLine(magicNumber);
 
         int guess = -1;
 
