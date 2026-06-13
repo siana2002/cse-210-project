@@ -1,0 +1,4 @@
+725
+Simple Goal | Run | Run a mile | 100 
+Eternal Goal | Read | Read the scriptures | 50 
+Checklist Goal | Temple | Attend the temple | 75 | 3 | 3 | 500
