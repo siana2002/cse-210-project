@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the ExerciseTracking Project.");
+        ActivityManager activityManager = new ActivityManager();
+        activityManager.Start();
     }
 }
